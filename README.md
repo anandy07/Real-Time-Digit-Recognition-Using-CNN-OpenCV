@@ -65,7 +65,7 @@ cd real-time-digit-recognition
 
 ----
 
-###2️⃣ Create a Virtual Environment (optional)
+2️⃣ Create a Virtual Environment (optional)
 bash
 Copy
 Edit
@@ -76,7 +76,7 @@ source env/bin/activate  # On Windows: env\Scripts\activate
 -----
 
 
-###3️⃣ Install Dependencies
+3️⃣ Install Dependencies
 bash
 Copy
 Edit
