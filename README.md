@@ -86,34 +86,34 @@ Edit
 streamlit run app.py
 A browser window will open where your webcam will activate and start digit prediction in real time.
 
-✨ Future Enhancements
-Improve drawing interface (canvas-based instead of webcam)
+ ## ✨ Future Ideas
 
-Add model confidence score
+* Improve drawing interface (canvas-based instead of webcam)
+* Add model confidence score
+* Add support for multi-digit recognition
+* Deploy on Hugging Face Spaces or Heroku
 
-Add support for multi-digit recognition
+---
 
-Deploy on Hugging Face Spaces or Heroku
+## 🧑‍💻 Author
 
-🧑‍💻 Author
-Developed by Anand Yadav
-GitHub: @anandy07
+Developed by **Anand Yadav**  
+GitHub: [@anandy07](https://github.com/anandy07)
 
-📜 License
+---
+
+## 📜 License
+
 This project is licensed under the MIT License.
 
-⭐ Contribute & Support
-If you liked this project, consider giving it a star ⭐ on GitHub!
-Pull requests and suggestions are welcome!
+---
 
-go
-Copy
-Edit
+## ⭐ Contribute & Support
 
-Let me know if you also want the full `app.py` and `model_training.py` code added directly for upload.
+If you liked this project, consider giving it a **star ⭐** on GitHub!  
+Pull requests, issues, and suggestions are always welcome.
 
-
-
+---
 
 
 
