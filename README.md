@@ -62,12 +62,15 @@ Edit
 bash
 git clone https://github.com/YOUR_USERNAME/real-time-digit-recognition.git
 cd real-time-digit-recognition
+
 ###2️⃣ Create a Virtual Environment (optional)
 bash
 Copy
 Edit
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
+
+
 ###3️⃣ Install Dependencies
 bash
 Copy
