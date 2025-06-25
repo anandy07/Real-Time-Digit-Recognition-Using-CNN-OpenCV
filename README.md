@@ -40,20 +40,7 @@ A deep learning-based **real-time digit recognition** app using **Python**, **Op
 
 ---
 
-## 📁 File Structure
 
-.
-├── app.py # Streamlit frontend with webcam
-├── model_training.py # Model training script
-├── mnist_cnn.h5 # Trained model file
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
-yaml
-Copy
-Edit
-
----
 
 ## 📦 Installation
 
