@@ -1,6 +1,6 @@
 # 🤖 Real-Time Digit Recognition System
 
-A deep learning-based **real-time digit recognition** app using **Python**, **OpenCV**, **TensorFlow**, and **Streamlit**. It captures digit images via **webcam**, processes them, and predicts the digit using a **CNN trained on the MNIST dataset**.
+A deep learning-based **real-time digit recognition** app using **Python**, **OpenCV**, **TensorFlow** . It captures digit images via **webcam**, processes them, and predicts the digit using a **CNN trained on the MNIST dataset**.
 
 ---
 
@@ -9,14 +9,12 @@ A deep learning-based **real-time digit recognition** app using **Python**, **Op
 ✅ **Live Webcam Feed** for digit drawing  
 ✅ **CNN Model** trained on MNIST dataset  
 ✅ **Real-Time Predictions** on captured digits  
-✅ **Streamlit UI** for a smooth interactive experience  
 ✅ **Preprocessing Pipeline** for image cleaning & resizing  
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Frontend**: Streamlit, OpenCV
 * **Backend**: Python
 * **Deep Learning**: TensorFlow, Keras
 * **Data**: MNIST Handwritten Digit Dataset
